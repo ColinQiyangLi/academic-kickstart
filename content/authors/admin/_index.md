@@ -24,16 +24,13 @@ education:
   courses:
   - course: BASc in Engineering Science, Robotics Engineering Major
     institution: University of Toronto
-    year: 2015 - now
+    year: 2015 - 2020 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:qiyang.li@mail.utoronto.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/qiyang_li
@@ -43,22 +40,14 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ColinQiyangLi
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+---
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
-# ---
+I am a fourth year undergraduate student in Engineering Science, Robotics Major at the University of Toronto. I am currently working with [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/) on machine learning for automated reasoning at the [Vector Institute](https://vectorinstitute.ai/).
 
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+During my undergraduate study, I have worked on Lipschitz-constrained convolutional network with [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/) and [Jörn-Henrik Jacobsen](https://jhjacobsen.github.io/). I also worked on unsupervised musical timbre transfer with [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/) and [Sageev Oore](http://www.cs.smu.ca/~sageev/). I was a summer research student in [Dynamic Systems Lab](http://www.dynsyslab.org/vision-news/) where I worked on machine learning for unmanned aerial vehicle (UAV) control and distributed robot controls with [Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/).
 
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Email: qiyang_at_mail_dot_utoronto_dot_ca
